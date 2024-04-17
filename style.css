@@ -1,0 +1,47 @@
+﻿h1 {
+	font-family: Calibri;
+	font-size: large;
+	color: #C0C0C0;
+	font-weight: bold;
+	font-style: normal;
+	font-variant: normal;
+}
+h2 {
+
+	font-family: Calibri;
+	font-size: large;
+	
+	font-style: normal;
+	font-variant: normal
+}
+p {
+	font-family: Calibri;
+	font-size: medium;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	color: #000000;
+}
+.Paraghraph1 {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: medium;
+	font-weight: normal;
+	font-style: normal;
+	color: #C0C0C0;
+	background-color: #000000;
+}
+
+.Paragraph2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+}
+
+.parastyle1{
+	font-family: "Adobe Devanagari";
+	font-size: medium;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+	background-color: #C0C0C0;
+}
